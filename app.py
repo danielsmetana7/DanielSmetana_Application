@@ -13,7 +13,7 @@ import plotly.express as px
 
 
 st.title("Daniel Smetana Application")
-st.markdown("My name is Daniel Smetana, and this is my Streamlit Application..")
+st.markdown("My name is Daniel Smetana, and this is my Streamlit Application.")
 st.markdown("This is v1")
 
 st.title("Project Idea")
